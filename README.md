@@ -84,7 +84,7 @@
 ## 20.09.09
 
 * [Pandas 활용 : `dropna`, `interpolate`, `replace`, `duplicated`, `drop_duplicated`, `unique`, `value_counts`, `cut` & `bins`](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200909/20200909.ipynb)
-* [(Kaggle) Pandas를 활용한 Titanic 데이터 변형](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200909/200909%20연습문제.ipynb) 
+* [【Kaggle】 Pandas를 활용한 Titanic 데이터 변형](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200909/200909%20연습문제.ipynb) 
 
 
 
