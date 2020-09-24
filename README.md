@@ -83,14 +83,14 @@
 
 ## 20.09.09
 
-* [Pandas 활용 : dropna(), interpolate(), replace(), duplicated(), drop_duplicated(), unique(), value_counts(), cut() & bins](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200909/20200909.ipynb)
+* [Pandas 활용 : `dropna`, `interpolate`, `replace`, `duplicated`, `drop_duplicated`, `unique`, `value_counts`, `cut` & `bins`](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200909/20200909.ipynb)
 * [(Kaggle) Pandas를 활용한 Titanic 데이터 변형](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200909/200909%20연습문제.ipynb) 
 
 
 
 ## 20.09.07
 
-* [Pandas를 활용한 데이터 병합 : concat(), merge(), join()](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200907/20200907.ipynb) 
+* [Pandas를 활용한 데이터 병합 : `concat`, `merge`, `join`](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200907/20200907.ipynb) 
 
 
 
