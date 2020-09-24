@@ -9,7 +9,7 @@
 * [랜덤포레스트](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8.md)
 * [교차검증](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D.md)
 * [(Kaggle) __랜덤포레스트__를 활용한 Titanic Data 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/200924%20titanic.ipynb)
-* [(Kaggle) __랜덤포레스트__를 활용한 Bike Sharing Demands 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/200924%20bike-sharing-demand.ipynb) 
+* [(Kaggle)**랜덤포레스트**를 활용한 Bike Sharing Demands 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/200924%20bike-sharing-demand.ipynb) 
 
 
 
@@ -23,7 +23,7 @@
 ## 20.09.22 
 
 * [의사결정나무란?](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200922/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4(Decision%20Tree).md)
-* [(Kaggle) __의사결정나무__를 활용한 Titanic Data 분석 1차](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/tree/master/200922)
+* [(Kaggle)`의사결정나무`를 활용한 Titanic Data 분석 1차](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/tree/master/200922)
 
 
 
