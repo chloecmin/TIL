@@ -8,8 +8,8 @@
 
 * [랜덤포레스트](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8.md)
 * [교차검증](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D.md)
-* [(Kaggle) __랜덤포레스트__를 활용한 Titanic Data 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/200924%20titanic.ipynb)
-* [(Kaggle)**랜덤포레스트**를 활용한 Bike Sharing Demands 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/200924%20bike-sharing-demand.ipynb) 
+* [(Kaggle)`랜덤포레스트`를 활용한 Titanic Data 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/200924%20titanic.ipynb)
+* [(Kaggle)`랜덤포레스트`를 활용한 Bike Sharing Demands 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/200924%20bike-sharing-demand.ipynb) 
 
 
 
