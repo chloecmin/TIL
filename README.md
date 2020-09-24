@@ -15,7 +15,7 @@
 
 ## 20.09.23
 
-* [(Kaggle) __의사결정나무__를 활용한 Titanic Data 분석 2차](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/tree/master/200923)
+* [(Kaggle)`의사결정나무`를 활용한 Titanic Data 분석 2차](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/tree/master/200923)
 
   
 
