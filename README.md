@@ -4,6 +4,29 @@
 
 
 
+## 20.09.27
+
+* [R 마크다운]()
+
+  
+
+## 20.09.26
+
+* [EDA]()
+
+* [데이터 전처리(Feature Engineering)]() 
+
+  
+
+## 20.09.25
+
+* [【Kaggle】`랜덤포레스트`를 활용한 Breast Cancer 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200925/200925%20breast-cancer-wisconsin.ipynb)
+* [【Kaggle】`랜덤포레스트`를 활용한 House Price 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200925/200925%20House-Prices.ipynb) 
+* [Decision Tree & RandomForest의 특징](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200925/DT%20%26%20RF%EC%9D%98%20%ED%8A%B9%EC%A7%95.md)
+* [문자형 데이터 전처리](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200925/200925%20문자형%20데이터.ipynb)
+
+
+
 ## 20.09.24
 
 * [랜덤포레스트](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200924/%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8.md)
