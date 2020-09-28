@@ -4,6 +4,14 @@
 
 
 
+## 20.09.28
+
+* [Pandas와 Numpy를 활용한 데이터 재구조화](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200928)
+
+* [딥러닝 프레임워크](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200928/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)
+
+  
+
 ## 20.09.27
 
 * [R 마크다운]()
