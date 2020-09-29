@@ -4,6 +4,14 @@
 
 
 
+## 20.09.29
+
+* [【Kaggle】`통계적분석`을 이용한 House Price 데이터 전처리와 `랜덤포레스트`를 활용한 분석 2차](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/200929%20House-Prices(2).ipynb)
+* [통계적분석 실습](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/200929%20통계적분석%20실습.ipynb)
+* [통계적분석 기법](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/%ED%86%B5%EA%B3%84%EC%A0%81%20%EA%B8%B0%EB%B2%95.md)
+
+
+
 ## 20.09.28
 
 * [Pandas와 Numpy를 활용한 데이터 재구조화](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200928)
@@ -28,7 +36,7 @@
 ## 20.09.25
 
 * [【Kaggle】`랜덤포레스트`를 활용한 Breast Cancer 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200925/200925%20breast-cancer-wisconsin.ipynb)
-* [【Kaggle】`랜덤포레스트`를 활용한 House Price 분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200925/200925%20House-Prices.ipynb) 
+* [【Kaggle】`랜덤포레스트`를 활용한 House Price 분석 1차](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200925/200925%20House-Prices.ipynb) 
 * [Decision Tree & RandomForest의 특징](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200925/DT%20%26%20RF%EC%9D%98%20%ED%8A%B9%EC%A7%95.md)
 * [문자형 데이터 전처리](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200925/200925%20문자형%20데이터.ipynb)
 
