@@ -6,9 +6,10 @@
 
 ## 20.09.29
 
-* [【Kaggle】`통계적분석`을 이용한 House Price 데이터 전처리와 `랜덤포레스트`를 활용한 분석 2차](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/200929%20House-Prices(2).ipynb)
-* [통계적분석 실습](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/200929%20통계적분석%20실습.ipynb)
-* [통계적분석 기법](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/%ED%86%B5%EA%B3%84%EC%A0%81%20%EA%B8%B0%EB%B2%95.md)
+* [【Kaggle】`통계적기법`을 이용한 House Price 데이터 전처리와 `랜덤포레스트`를 활용한 분석 2차](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/200929%20House-Prices(2).ipynb)
+* [회귀분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.md)
+* [데이터분석](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
+* [통계적 기법](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/통계적%20기법.md)
 
 
 
