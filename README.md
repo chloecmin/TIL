@@ -4,6 +4,15 @@
 
 
 
+## 20.10.05
+
+* [Abalone 데이터 분석 및 예측](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/201005/201005%20Abalone%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)
+* [데이터 정제 기법](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/201005/201005%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EC%A0%9C.ipynb)
+* [json 데이터 가공 및 저장](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/201005/201005%20json%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%A0%80%EC%9E%A5%20%EB%B0%8F%20%EA%B0%80%EA%B3%B5.ipynb)
+* [머신러닝, 딥러닝을 위한 필수 기초 지식](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/201005/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%2C%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%95%84%EC%88%98%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D.md)
+
+
+
 ## 20.09.29
 
 * [【Kaggle】 House Price 2차 분석 준비 : `통계적기법`을 이용한 데이터 전처리](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200929/200929%20House-Prices(2).ipynb)
