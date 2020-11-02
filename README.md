@@ -46,9 +46,9 @@
 
 ## 20.10.26
 
-* [R을 활용한 데이터 조작 실습](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/201005/201005%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EC%A0%9C.ipynb)
-* [R의 기초 : R설치, R Studio설치, 패키지활용(readxl, dplyr, ggplot2)](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/201005/201005%20json%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%A0%80%EC%9E%A5%20%EB%B0%8F%20%EA%B0%80%EA%B3%B5.ipynb)
-* [데이터베이스 활용 : SQL](
+* [자연어 처리 알고리즘과 활용](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/201026/%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC.md)
+* [신경망 구조 - 활성화 함수](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/201026/%EC%8B%A0%EA%B2%BD%EB%A7%9D.md)
+* [딥러닝 구조 - 가중치 학습원리](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/201026/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B5%AC%EC%A1%B0.md)
 
 
 
