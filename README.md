@@ -348,7 +348,7 @@
 
 ## 20.09.02
 
-* [추천알고리즘을 활용한 영화 추천 시스템 1](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/master/200902/200902.ipynb) 
+* [추천알고리즘을 활용한 영화 추천 시스템 1](https://github.com/chloecmin/MultiCampus-AI-Engineering-based-on-Deep-Learning/blob/) 
 
 
 
